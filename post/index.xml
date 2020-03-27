@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Muscaw</title>
+    <link>https://muscaw.dev/post/</link>
+    <description>Recent content in Posts on Muscaw</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Kevin Grandjean</copyright>
+    
+	<atom:link href="https://muscaw.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Brew your own mead</title>
+      <link>https://muscaw.dev/1/01/01/brew-your-own-mead/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://muscaw.dev/1/01/01/brew-your-own-mead/</guid>
+      <description>Brew your own mead </description>
+    </item>
+    
+  </channel>
+</rss>
