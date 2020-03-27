@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://kevingrandjean.ch/</loc></url><url>
-    <loc>https://kevingrandjean.ch/categories/</loc></url><url>
-    <loc>https://kevingrandjean.ch/post/</loc></url><url>
-    <loc>https://kevingrandjean.ch/tags/</loc></url></urlset>
+    <loc>/</loc></url><url>
+    <loc>/categories/</loc></url><url>
+    <loc>/tags/index/</loc></url><url>
+    <loc>/post/</loc></url><url>
+    <loc>/tags/</loc></url></urlset>
